@@ -1,1 +1,1 @@
-docker-vue-cli
+Custom Dockerfile vue-cli with node, personal use
